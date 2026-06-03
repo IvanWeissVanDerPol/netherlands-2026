@@ -1,0 +1,32 @@
+SLIDE 1 (Cover)
+"How we went from 0 to 20 production clients in 24 months — building AI-native websites in LATAM"
+
+SLIDE 2
+The problem:
+Web agencies sell projects. Clients need products.
+Average agency site: 3-6 months to ship, 40% over budget, zero built-in AI.
+
+SLIDE 3
+What Ai-Whisperers ships instead:
+48h from concept to deploy
+Native SEO + WhatsApp + admin panel
+Weekly automated growth tasks
+
+SLIDE 4
+Stack:
+Next.js + Supabase + Cloudflare + custom AI agents
+All containerized, self-hosted, Swarm-managed.
+
+SLIDE 5
+Proof:
+• Nexa Paraguay — desde site hasta dashboard de clientes
+• Superspuma — SEO + automatizaciones IA
+• Golden Visa Advisory — sitio en vivo + flujo de captación
+
+SLIDE 6
+What we're looking for:
+Investors / Partners / EU clients
+Contact: +595 982 515 138
+
+SLIDE 7
+Footer: paragu-ai.com · hola@ai-whisperers.com · Amsterdam, Jun 2026

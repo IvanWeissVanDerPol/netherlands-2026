@@ -1,0 +1,37 @@
+AI-WHISPERERS
+AI-native web infrastructure for high-growth companies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE PROBLEM
+Companies spend months and tens of thousands of dollars on websites that go obsolete before launch. Traditional agencies deliver dead code: slow, expensive to maintain, no built-in intelligence.
+
+WHAT WE DO
+We design, build, and operate AI-powered self-managing websites — websites that learn, adapt, and generate leads while you sleep.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRACK RECORD IN NUMBERS
+• 20+ clients in active production (Paraguay, Argentina, Spain)
+• 99.9% uptime on Swarm + Cloudflare infrastructure
+• From concept to deploy: 48 hours
+• Native SEO, embedded WhatsApp, self-service admin panel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOW WE WORK
+1. Discovery: we map your funnel and pain points in 1 session
+2. Architecture: Next.js + Supabase + edge infra in 3-5 days
+3. Growth: SEO, automations, and AI tools shipped weekly
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ready to build something that competes at global scale?
+30-min call • Free • No commitment
+
+📱 +595 982 515 138
+🌐 paragu-ai.com
+✉️ hola@ai-whisperers.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ai-Whisperers © 2026 — Asunción, PY · Amsterdam, NL
